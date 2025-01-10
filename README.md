@@ -5,11 +5,13 @@
 - This repo ;)
 
 # Launch
-Open XAMPP then start the MySQL server (you may need to start the Apache server to access phpmyadmin). If you're working inside the XAMPP directory, you can start the Apache server as well. Otherwise, go to the root of this repository, open your terminal and use (_you may need to add xampp/php path to your environment variables first_) :
+Open XAMPP then start both Apache and MySQL servers. Go to the root of this repository, open your terminal and use :
 ```sh
 php -S localhost:PORT
 ```
 _PORT can be any valid 4 digits number like `5000`_.
+
+**!! If you're working with a different terminal than the one provided by XAMPP, you may need to add xampp/php path to your environment variables.**
 
 # API
 - **/** is where you get on server start up 
