@@ -11,7 +11,7 @@ php -S localhost:PORT
 ```
 _PORT can be any valid 4 digits number like `5000`_.
 
-**!! If you're working with a different terminal than the one provided by XAMPP, you may need to add xampp/php path to your environment variables.**
+**!! Warning : if you're working with a different terminal than the one provided by XAMPP, you may need to add xampp/php path to your environment variables.**
 
 # API
 - **/** is where you get on server start up 
