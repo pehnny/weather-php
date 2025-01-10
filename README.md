@@ -19,7 +19,7 @@ _PORT can be any valid 4 digits number like `5000`_.
 # Use
 Here is what you should see when your start the server :
 
-![index](image.png)
+![index](index.png)
 
 Otherwise, you should see the corresponding SQL error.
 
